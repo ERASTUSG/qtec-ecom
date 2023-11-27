@@ -1,0 +1,10 @@
+.env
+.idea
+composer.lock
+composer.phar
+vendor
+tests/bootstrap/cache
+tests/storage/framework/cache
+tests/storage/logs
+_ide_helper.php
+.phpunit.result.cache

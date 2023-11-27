@@ -7,26 +7,26 @@
 .vscode
 
 #Env
-.env
+# .env
 
 #Dependencies
-node_modules/
-vendor/
+# node_modules/
+# vendor/
 
 #Assets
-public/images/
-public/modules/
-public/themes/
-public/build/
-public/pwa/
-Modules/*/Assets/
-Themes/*/assets/
+# public/images/
+# public/modules/
+# public/themes/
+# public/build/
+# public/pwa/
+# Modules/*/Assets/
+# Themes/*/assets/
 
 #Fonts
-Themes/Storefront/resources/assets/public/fonts/
+# Themes/Storefront/resources/assets/public/fonts/
 
 #Storage
-public/storage/
+# public/storage/
 
 #Logs
 public/phplog
@@ -40,8 +40,8 @@ yarn-error.log
 tools/
 *.map
 tags/
-public/hot
-mix-manifest.json
+# public/hot
+# mix-manifest.json
 public/sitemaps/*
 public/sitemap.xml
 .php-cs-fixer.cache
